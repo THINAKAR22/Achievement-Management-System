@@ -603,6 +603,7 @@ body {
   .stats {
     padding: 3rem 1rem;
     max-width: 100%;
+    scroll-margin-top: 80px;
   }
 
   .features-grid {
